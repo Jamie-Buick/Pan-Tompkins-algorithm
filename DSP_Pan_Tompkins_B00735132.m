@@ -1,8 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%                                                                          %
-%                           EEE826 Coursework                              %
-%                                                                          %
-%                         Jamie Buick - B00735132                          %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%                                                                       
 %                                                                          %
 % This program contains a functioning Pan-Tompkins Algorithm which runs    %
 % though the MIT-BIH database. The program returns the accuracy of the     %
